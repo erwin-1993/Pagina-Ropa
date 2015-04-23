@@ -1,0 +1,32 @@
+a {float: right;
+}
+h5 > a:hover{color:#0AFF1E;}
+img#publicidad1 {float:left;
+		margin-top:10px;
+		margin-left:30px;}
+
+a#camisa{float:left;
+	margin-top: 110px;
+	margin-left:60px;
+		   color:violet;
+	   font-size:80px;
+	   text-decoration:none;
+}
+a#pantalon{float:left;
+			margin-top:170px;
+			margin-left:-270px;  
+			color:violet;
+			font-size:80px;
+			text-decoration:none;	
+}
+a#zapatos{float:left;
+			margin-top:240px;
+			margin-left:-345px;
+			color:violet;
+			font-size:80px;
+			text-decoration:none;	
+}
+
+a#camisa:hover{color:#06F6FF;}
+a#pantalon:hover{color:#06F6FF;}
+a#zapatos:hover{color:#06F6FF;}

@@ -1,0 +1,60 @@
+a#iniciohombre{float: right;
+color:#FF5E00;
+
+}
+
+a#home{float:right;
+	margin-right:10px;
+	   color:#FF5E00;
+}
+a#iniciohombre:hover{ color:black;}
+a#home:hover{ color:black;}
+
+img#zapatos1{float:left;
+			margin-left:50px;
+			margin-top:100px;}
+
+img#zapatos2{float:left;
+			margin-left:-300px;
+			margin-top:470px;}
+
+img#zapatos3{float:right;
+			margin-top:100px;
+			margin-right:200px;}
+
+a#compra1{float:left;
+	    margin-top:370px;
+	    margin-left:-240px;
+	    color:blue;
+	}
+
+a#compra1:hover{color:blue;}
+
+ul#marron{float:left;
+		margin-top:230px;
+		margin-left:-30px;
+		color:blue;
+	}
+ul#clara{float:left;
+		margin-top:600px;
+		margin-left:-200px;
+		color:red;}
+
+a#compra2{float:left;
+		  margin-top: 750px;
+		  margin-left:-165px;
+		  color:red;
+		}
+a#compra2:hover{color:black;}
+
+ul#altas{float:right;
+	margin-right:200px;
+	margin-top:-170px;
+				color:orange;}
+
+a#compra3{float:right;
+		  margin-right:-110px;
+	margin-top:-30px;
+		  color:orange;
+		}
+a#compra3:hover{color:yellow;}
